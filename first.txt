@@ -1,6 +1,8 @@
-Hellow World
+Hello World
 
 Welcome to Git
 
 
 new line of code
+
+new line added at remote side
